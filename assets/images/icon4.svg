@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>F120B1A8-AC49-4ADF-B10C-9F94D4D08849</title>
+    <g id="2023" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Ploan/Main/1/New1" transform="translate(-1062.000000, -732.000000)">
+            <g id="Group-3" transform="translate(55.000000, 712.000000)">
+                <g id="Hilight/with-icon-Copy" transform="translate(900.000000, 0.000000)">
+                    <g id="Hilight/icon" transform="translate(87.000000, 0.000000)">
+                        <g id="Icon/56px/Insurance/88_years_old" transform="translate(20.000000, 20.000000)">
+                            <rect id="Rectangle" x="0" y="0" width="56" height="56"></rect>
+                            <rect id="Rectangle" stroke="#6F5F5E" stroke-width="0.8" fill="#FFFFFF" x="7.4" y="11.4" width="41.2" height="35.2" rx="7"></rect>
+                            <line x1="8" y1="20.5" x2="48" y2="20.5" id="Path-22" stroke="#FFD400" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"></line>
+                            <rect id="Rectangle" stroke="#6F5F5E" stroke-width="1.6" x="7.8" y="11.8" width="40.4" height="34.4" rx="7"></rect>
+                            <text id="12-60" font-family="KrungsriCondensed-Bold, Krungsri Condensed" font-size="13" font-style="condensed" font-weight="bold" fill="#6F5F5E">
+                                <tspan x="10.420166" y="33">12-60</tspan>
+                            </text>
+                            <text id="เดือน" font-family="KrungsriCondensed-Bold, Krungsri Condensed" font-size="7.5" font-style="condensed" font-weight="bold" fill="#6F5F5E">
+                                <tspan x="17" y="42">เดือน</tspan>
+                            </text>
+                            <g id="Group-3" transform="translate(19.000000, 8.000000)" fill="#FFD400">
+                                <rect id="Rectangle" x="8.34887715e-14" y="0" width="2.96296296" height="7" rx="1"></rect>
+                                <rect id="Rectangle" x="16.345679" y="0" width="2.96296296" height="7" rx="1"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

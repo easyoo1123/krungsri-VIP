@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="51px" height="52px" viewBox="0 0 51 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>59190EB7-A482-4CFA-931F-D86795EDDF53</title>
+    <g id="2023" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Ploan/Main/1/New1" transform="translate(-765.000000, -734.000000)">
+            <g id="Group-3" transform="translate(55.000000, 712.000000)">
+                <g id="Hilight/with-icon-Copy-2" transform="translate(600.000000, 0.000000)">
+                    <g id="Hilight/icon" transform="translate(87.000000, 0.000000)">
+                        <g id="Icon/56px/Insurance/88_years_old" transform="translate(23.000000, 22.000000)">
+                            <polygon id="Path-21" stroke="#FFD400" stroke-width="1.11999998" fill="#FFD400" stroke-linecap="round" stroke-linejoin="round" points="19.2 33 19.2 35.4239063 15 35.4239063 25.1603342 51 36 35.7540279 31.1 35.7540279 31.1 33.120057"></polygon>
+                            <g id="text" fill="#6F5F5E" font-family="KrungsriCondensed-Bold, Krungsri Condensed" font-style="condensed" font-weight="bold">
+                                <text id="ลด" font-size="25.1999996">
+                                    <tspan x="0" y="30">ลด</tspan>
+                                </text>
+                                <text id="ต้น" font-size="8.39999986">
+                                    <tspan x="32.8999994" y="21.6290321">ต้น</tspan>
+                                </text>
+                                <text id="ดอก" font-size="8.39999986">
+                                    <tspan x="32.8999994" y="30.0741932">ดอก</tspan>
+                                </text>
+                            </g>
+                            <path d="M19,12 L19,5 L31,5 L31,12 C29,11.2143282 27,10.8214923 25,10.8214923 C23,10.8214923 21,11.2143282 19,12 Z" id="Path-29" stroke="#FFD400" stroke-width="1.11999998" fill="#FFD400" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
